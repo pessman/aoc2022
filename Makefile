@@ -6,3 +6,6 @@ two:
 
 three:
 	go run day3/main.go --file day3/input.txt
+
+four:
+	go run day4/main.go --file day4/input.txt
